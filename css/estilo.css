@@ -1,0 +1,60 @@
+header > h1 {
+	text-align: center;
+}
+
+div.bloques {
+	border: 1pt solid #cbccc1;
+	padding: 5px;
+	margin: 10px;
+}
+
+div.datos {
+	text-align: center;
+}
+
+
+h3.institucion {
+	font-weight: bold;
+}
+
+img.perfil {
+	margin-right: 10px;
+	width: 100%;
+}
+
+img.educacion {
+	width: 100%;
+}
+
+p.anio {
+	font-style: italic;
+}
+
+div.habilidad {
+	border-radius: 25px;
+	background-color: #cecece;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 2px 2px grey;
+}
+
+div.descripcion {
+	margin-left: 10px;
+}
+
+div.valor {
+	padding-left: 9px;
+	padding-right: 9px;
+	border-radius: 25px;
+	background-color: blue;
+	color: white;
+}
+
+p.tamano {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div.separador {
+	border : 1pt solid black;
+}
